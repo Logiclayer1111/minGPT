@@ -1,6 +1,18 @@
 
 # minGPT
 
+### 📊 Repository Statistics
+
+[![Stars](https://img.shields.io/badge/%E2%AD%90%20Stars-0-blue?logo=github&style=flat-square)](https://github.com/Logiclayer1111/minGPT/stargazers)
+[![Watchers](https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Watchers-0-blue?logo=github&style=flat-square)](https://github.com/Logiclayer1111/minGPT/watchers)
+[![Forks](https://img.shields.io/badge/%F0%9F%8D%B4%20Forks-0-blue?logo=github&style=flat-square)](https://github.com/Logiclayer1111/minGPT/network/members)
+[![Activity](https://img.shields.io/badge/%F0%9F%93%85%20Activity-View-informational?logo=github&style=flat-square)](https://github.com/Logiclayer1111/minGPT/activity)
+
+**Last Updated:** 2026-04-24
+
+---
+
+
 ![mingpt](mingpt.jpg)
 
 ---
