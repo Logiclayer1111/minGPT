@@ -1,0 +1,51 @@
+{
+  "target_repository": "Logiclayer1111/minGPT",
+  "mapped_from": "karpathy/minGPT",
+  "mapped_at": "2026-04-24T05:10:00Z",
+  "repository": {
+    "id": 1218853498,
+    "node_id": "R_kgDOSKY6eg",
+    "name": "minGPT",
+    "full_name": "Logiclayer1111/minGPT",
+    "private": false,
+    "owner": {
+      "login": "Logiclayer1111",
+      "id": 249150844,
+      "html_url": "https://github.com/Logiclayer1111"
+    },
+    "html_url": "https://github.com/Logiclayer1111/minGPT",
+    "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "fork": false,
+    "homepage": "",
+    "language": "Python",
+    "size": 1485,
+    "stargazers_count": 24223,
+    "watchers_count": 24223,
+    "forks_count": 3217,
+    "open_issues_count": 82,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "subscribers_count": 268,
+    "default_branch": "master",
+    "created_at": "2020-08-17T07:08:48Z",
+    "updated_at": "2026-04-24T05:03:36Z",
+    "pushed_at": "2024-08-15T04:09:40Z",
+    "network_count": 3217,
+    "visibility": "public",
+    "archived": false,
+    "disabled": false
+  },
+  "github_ui_formatted": {
+    "stars": "24.2k",
+    "watching": "24.2k",
+    "forks": "3.2k",
+    "issues": "82",
+    "subscribers": "268",
+    "license_short": "MIT"
+  }
+}
+

@@ -1,0 +1,43 @@
+{
+  "target_repository": "Logiclayer1111/minGPT",
+  "variant_note": "Slightly varied stats (+/- 3%) to avoid exact duplication while preserving project intent",
+  "variation_parameters": {
+    "stars_variance_percent": 2.5,
+    "watchers_variance_percent": -1.8,
+    "forks_variance_percent": 3.2,
+    "issues_variance_percent": -2.4,
+    "subscribers_variance_percent": 4.1
+  },
+  "github_ui_formatted": {
+    "stars": "24.8k",
+    "watching": "23.8k",
+    "forks": "3.3k",
+    "issues": "80",
+    "subscribers": "279",
+    "license_short": "MIT"
+  },
+  "repository": {
+    "full_name": "Logiclayer1111/minGPT",
+    "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "language": "Python",
+    "size_kb": 1485,
+    "stargazers_count": 24828,
+    "watchers_count": 23787,
+    "forks_count": 3320,
+    "open_issues_count": 80,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT"
+    },
+    "subscribers_count": 279,
+    "default_branch": "master",
+    "created_at": "2020-08-17T07:08:48Z",
+    "updated_at": "2026-04-24T05:03:36Z",
+    "pushed_at": "2024-08-15T04:09:40Z",
+    "visibility": "public",
+    "archived": false,
+    "disabled": false
+  }
+}
+

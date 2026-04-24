@@ -1,0 +1,33 @@
+{
+  "source_repository": "karpathy/minGPT",
+  "extracted_at": "2026-04-24T05:10:00Z",
+  "fields": {
+    "stars_count": 24223,
+    "stars_formatted": "24.2k",
+    "watchers_count": 24223,
+    "watchers_formatted": "24.2k",
+    "forks_count": 3217,
+    "forks_formatted": "3.2k",
+    "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT"
+    },
+    "activity_indicators": {
+      "created_at": "2020-08-17T07:08:48Z",
+      "updated_at": "2026-04-24T05:03:36Z",
+      "last_pushed_at": "2024-08-15T04:09:40Z",
+      "open_issues_count": 82,
+      "open_issues_formatted": "82",
+      "subscribers_count": 268,
+      "subscribers_formatted": "268",
+      "language": "Python",
+      "size_kb": 1485,
+      "size_formatted": "1.45 MB",
+      "network_count": 3217,
+      "default_branch": "master"
+    }
+  }
+}
+
