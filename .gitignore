@@ -1,5 +1,12 @@
-.ipynb_checkpoints/
+# Migration debug logs and artifacts
+rewrite_debug.txt
+rewrite_debug3.txt
+rewrite_debug4.txt
+rewrite_log.txt
+rewrite_output.txt
+new_repo/
+
+# Python cache
 __pycache__/
-*.swp
-.env
-.pylintrc
+*.pyc
+
