@@ -1,0 +1,33 @@
+{
+  "owner": "username",
+  "repo": "repository",
+  "readme_path": "README.md",
+  "section_title": "📊 Repository Statistics",
+  "badges": [
+    {
+      "label": "⭐ Stars",
+      "key": "stargazers_count",
+      "color": "blue",
+      "link_path": "stargazers"
+    },
+    {
+      "label": "👁️ Watchers",
+      "key": "watchers_count",
+      "color": "blue",
+      "link_path": "watchers"
+    },
+    {
+      "label": "🍴 Forks",
+      "key": "forks_count",
+      "color": "blue",
+      "link_path": "network/members"
+    },
+    {
+      "label": "📋 Issues",
+      "key": "open_issues_count",
+      "color": "yellow",
+      "link_path": "issues"
+    }
+  ],
+  "log_level": "INFO"
+}
